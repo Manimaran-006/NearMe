@@ -28,7 +28,7 @@ Execute the programs and publish them.
 ## CODE
 ```
 map.html
-```
+
 <html>
 <head>
     <title>My House</title>
@@ -159,7 +159,7 @@ theatre.html
     </p>
 </body>
 </html>
-
+```
 
 ## OUTPUT
 
